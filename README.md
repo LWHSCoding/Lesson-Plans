@@ -1,4 +1,4 @@
-##This repository is meant to contain all the lesson plans and goals of the club. 
+#This repository is meant to contain all the lesson plans and goals of the club. 
 
 ##Topics and Learning Goals Quarter 1
 <ul>

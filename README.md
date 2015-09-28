@@ -16,7 +16,7 @@
 <li><a href="http://brackets.io"> Install Brackets </a></li> 
 <li>Install XCode </li>
 </ol>
-<p><i>Before Next Time</i>: If you would like to start learning HTML I recommend starting on codecademy.com. Also please install brackets.  </p>
+<p><i>Before Next Time</i>: If you would like to start learning HTML I recommend starting on codecademy.com. Also please install brackets and answer the "additional club meeting" question.  </p>
 <h4>Topic: Start learning HTML </h4>
 <p>Lesson Plan 10/08/15</p>
 <ol>

@@ -13,9 +13,16 @@
 <p>Lesson Plan 09/28/15</p>
 <ol>
 <li>Setting up github</li>
-<li>Get brackets installed </li> 
+<li><a href="http://brackets.io"> Install Brackets </a></li> 
 <li>Install XCode </li>
 </ol>
+<p><i>Before Next Time</i>: If you would like to start learning HTML I recommend starting on codecademy.com. Also please install brackets.  </p>
+<h4>Topic: Start learning HTML </h4>
+<p>Lesson Plan 10/08/15</p>
+<ol>
+<li>Learn the bracket systme of HTML</li>
+</ol>
+
 
 <hr>
 <p>This repository is meant to contain all the lesson plans and goals of the club. </p>

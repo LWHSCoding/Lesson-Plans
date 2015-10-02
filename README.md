@@ -20,7 +20,7 @@
 <h4>Topic: Start learning HTML </h4>
 <p>Lesson Plan 10/08/15</p>
 <ol>
-<li>Learn the bracket systme of HTML</li>
+<li>Learn the bracket system of HTML</li>
 </ol>
 
 

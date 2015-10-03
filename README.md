@@ -23,7 +23,7 @@
 <li>Learn the bracket system of HTML</li>
 </ol>
 <p>Covered Material: We started learning HTML today. We learned the overall tag system and learned the tags: <code> < html >, < p >, < a >, < h1 >, < body >, < img > </code> (keep in mind in actuality there aren't spaces in between each, I just put them there so the readme doesn't think it's code)</p> 
-<p>To review for next meeting or catch up I recommend starting on Khan Academy</p>
+<p><i>To get ahead</i>: To review for next meeting or catch up I recommend starting on Khan Academy</p>
 
 
 <p><b>Lesson Plan 09/28/15</b></p>
@@ -32,7 +32,7 @@
 <li><a href="http://brackets.io"> Install Brackets </a></li> 
 <li>Install XCode </li>
 </ol>
-<p><i>Before Next Time</i>: If you would like to start learning HTML I recommend starting on codecademy.com. Also please install brackets and answer the "additional club meeting" question.  </p>
+<p><i>To get ahead</i>: If you would like to start learning HTML I recommend starting on codecademy.com. Also please install brackets and answer the "additional club meeting" question.  </p>
 
 
 <!-- 
@@ -42,7 +42,7 @@ For copying and pasting
 <li>What we're going over</li>
 </ol>
 <p>Covered Material: What we reviewed</p> 
-<p>What to do for next class</p>
+<p><i>To get ahead</i>What to do for next class</p>
 
 -->
 <hr>

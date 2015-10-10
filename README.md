@@ -14,11 +14,11 @@
 <li>Continue going over HTML and learn all elements</li>
 <li>Have everyone start their portfolio websites</li>
 </ol>
-<p></p> 
+<p>Covered Material: How to setup and use Github effectively.</p> 
 <p></p>
 
 
-<p><b>Lesson Plan 10/08/15</b></p>
+<p><b>Lesson Plan 10/02/15</b></p>
 <ol>
 <li>Learn the bracket system of HTML</li>
 </ol>

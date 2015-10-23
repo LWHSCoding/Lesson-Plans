@@ -8,6 +8,15 @@
 <li>Introduction to Javascript </li>
 </ul>
 
+For copying and pasting
+<p><b>Lesson Plan 10/23/15</b></p>
+<ol>
+<li>One on one work time</li>
+<li>Go over CSS </li>
+<li>Assign "HW" /work</li>
+</ol>
+
+
 <h2>Lesson-Plans</h2>
 <p><b>Lesson Plan 10/08/15</b></p>
 <ol>
